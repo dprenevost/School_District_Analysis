@@ -1,7 +1,5 @@
 # School_District_Analysis
 
-===========
-
 ## Overview 
 
 The school board has notified Maria and her supervisor that the 
