@@ -26,8 +26,8 @@ The Data needed to be checked, and corrected for irregularities in several field
    * ![Scores_After](/resources/District_overall_after.PNG)
 
 * Analysis of the adjusted data:
-  * The effects of removing the suspected 9th grade scores from the overall data appears to have a minimal change to the outcomes.
-  * Difference in the total % passing scores for the entire district is less than .2%
+  * Removing the alleged compromised 9th grade scores from the overall data appears to have minimal effect to the outcomes.
+  * The difference in the total % passing scores for the entire district is less than .2%
   
 
 * How does replacing the 9th graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
