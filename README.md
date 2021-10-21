@@ -37,16 +37,16 @@ The Data needed to be checked, and corrected for irregularities in several field
 * By removing the 9th grade scores, the following observations are made:
 
   * Math and reading scores by grade
-  * There were no significant changes noted
+  *   There were no significant changes noted
     
   * Scores by school spending
-  * There were no significant changes noted
+  *   There were no significant changes noted
 
   * Scores by school size
-  * There were no significant changes noted
+  *   There were no significant changes noted
 
   * Scores by school type
-  * There were no significant changes noted
+  *   There were no significant changes noted
 
 
 ## Summary:
