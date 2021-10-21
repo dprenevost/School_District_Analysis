@@ -31,7 +31,7 @@ The Data needed to be checked, and corrected for irregularities in several field
   
 
 * How does replacing the 9th graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-![Scores_After](/resources/before_after.PNG)
+* ![THS_before_after](/resources/before_after.PNG)
 * How does replacing the 9th scores affect the following:
 
 * Math and reading scores by grade
