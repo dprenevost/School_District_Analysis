@@ -51,4 +51,4 @@ The Data needed to be checked, and corrected for irregularities in several field
 
 ## Summary:
 
-The removal of the 9th Grade math and reading scores had no significant impact on the overall passing % for the School District.  The overall reading and math scores similarly did not show any meaningful deviation from the original calcualtions.
+The removal of the 9th Grade math and reading scores had no significant impact on the overall passing percentage for the School District when the 9th grade scores were elimated from the calculation.  The overall reading and math scores similarly did not show any meaningful deviation from the original calcualtions.
