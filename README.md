@@ -4,16 +4,16 @@
 
 ## Overview of the school district analysis
 
-### The school board has notified Maria and her supervisor that the 
-     "students_complete.csv" file shows evidence of academic dishonesty;
-     specifically, reading and math grades for Thomas High School 9th graders
-     appear to have been altered.  Although the school board does not know the full 
-     extent of the academic dishonesty, they want to uphold state-testing standards 
-     and have turned to Maria for help. She has asked me to replace the math and reading
-     scores for Thomas High School with NaNs while keeping the rest of the data intact.
-     Once i’ve replaced the math and reading scores, Maria would like me to repeat the 
-     school district analysis that I did in this module and write up a report to describe
-     how these changes affected the overall analysis.
+The school board has notified Maria and her supervisor that the 
+"students_complete.csv" file shows evidence of academic dishonesty;
+specifically, reading and math grades for Thomas High School 9th graders
+appear to have been altered.  Although the school board does not know the full 
+extent of the academic dishonesty, they want to uphold state-testing standards 
+and have turned to Maria for help. She has asked me to replace the math and reading
+scores for Thomas High School with NaNs while keeping the rest of the data intact.
+Once i’ve replaced the math and reading scores, Maria would like me to repeat the 
+school district analysis that I did in this module and write up a report to describe
+how these changes affected the overall analysis.
 
 #### The Data needed to be checked, and corrected for irregularities in several fields, noteably the "student_name" column, as there were several anomolous entries related to name prefixes and suffixes, most likely to cheeky students with a sense of humor.
 
