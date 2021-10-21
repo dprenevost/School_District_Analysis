@@ -17,30 +17,30 @@ The Data needed to be checked, and corrected for irregularities in several field
 
 ### Results:
 
-*How is the district summary affected?
-*District overall Scores **before** removing THS 9th grade scores:
+* How is the district summary affected?
+* District overall Scores **before** removing THS 9th grade scores:
 
 (![alt text](image.jpg) before here)
 
-*District overall Scores **after** removing THS 9th grade scores:
+* District overall Scores **after** removing THS 9th grade scores:
 (![alt text](image.jpg) after here)
 
-*How is the school summary affected?
+* How is the school summary affected?
 (insert school overall before here)
 
 (insert school overall after here)
 
-*How does replacing the 9th graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+* How does replacing the 9th graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-*How does replacing the 9th scores affect the following:
+* How does replacing the 9th scores affect the following:
 
-*Math and reading scores by grade
+* Math and reading scores by grade
 
-*Scores by school spending
+* Scores by school spending
 
-*Scores by school size
+* Scores by school size
 
-*Scores by school type
+* Scores by school type
 
 There is a  (10 pt).
 Summary:
