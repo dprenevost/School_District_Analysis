@@ -18,14 +18,17 @@ The Data needed to be checked, and corrected for irregularities in several field
 ### Results:
 
 * How is the district summary affected?
-* District overall Scores **before** removing THS 9th grade scores:
+
+   * District overall Scores **before** removing THS 9th grade scores:
 
 (![alt text](image.jpg) before here)
 
-* District overall Scores **after** removing THS 9th grade scores:
+   * District overall Scores **after** removing THS 9th grade scores:
+
 (![alt text](image.jpg) after here)
 
 * How is the school summary affected?
+* 
 (insert school overall before here)
 
 (insert school overall after here)
