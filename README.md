@@ -37,20 +37,18 @@ The Data needed to be checked, and corrected for irregularities in several field
 * By removing the 9th grade scores, the following observations are made:
 
   * Math and reading scores by grade
-  *   Math scores for THS went from 93.2% down to 69.6% for the whole school
+  * There were no significant changes noted
     
   * Scores by school spending
+  * There were no significant changes noted
 
   * Scores by school size
+  * There were no significant changes noted
 
   * Scores by school type
+  * There were no significant changes noted
 
 
 ## Summary:
 
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
-bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data
-
-    
-
-*Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The removal of the 9th Grade math and reading scores had no significant impact on the overall passing % for the School District.  The overall reading and math scores similarly did not show any meaningful deviation from the original calcualtions.
