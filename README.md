@@ -20,14 +20,14 @@ The Data needed to be checked, and corrected for irregularities in several field
 * How is the district summary affected?
 
    * District overall Scores **before** removing THS 9th grade scores:
-   * (![alt text](image.jpg) before here)
+   * ![Scores_Before](/resources/District_overall_before.PNG)
 
    * District overall Scores **after** removing THS 9th grade scores:
-   * (![alt text](image.jpg) after here)
+   * ![Scores_After](/resources/District_overall_after.PNG)
 
 * How is the school summary affected?
-* (insert school overall before here)
-* (insert school overall after here)
+  * (insert school overall before here)
+  * (insert school overall after here)
 
 * How does replacing the 9th graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
