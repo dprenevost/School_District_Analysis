@@ -29,7 +29,9 @@
 
     *How is the school summary affected?
 (insert school overall before here)
+
 (insert school overall after here)
+
     *How does replacing the 9th graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
     *How does replacing the 9th scores affect the following:
