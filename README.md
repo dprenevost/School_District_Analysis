@@ -15,7 +15,7 @@ Once i’ve replaced the math and reading scores, Maria would like me to repeat 
 school district analysis that I did in this module and write up a report to describe
 how these changes affected the overall analysis.
 
-#### The Data needed to be checked, and corrected for irregularities in several fields, noteably the "student_name" column, as there were several anomolous entries related to name prefixes and suffixes, most likely to cheeky students with a sense of humor.
+#### The Data needed to be checked, and corrected for irregularities in several fields, noteably the "student_name" column, as there were several anomolous entries related to name prefixes and suffixes, most likely due to cheeky students with a sense of humor.
 
 ### Results:
 
