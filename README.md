@@ -17,7 +17,7 @@ The Data needed to be checked, and corrected for irregularities in several field
 
 ### Results:
 
-* How is the district summary affected?
+* Here are the district summaries:
 
    * District overall Scores **before** removing THS 9th grade scores:
    * ![Scores_Before](/resources/District_overall_before.PNG)
@@ -25,7 +25,7 @@ The Data needed to be checked, and corrected for irregularities in several field
    * District overall Scores **after** removing THS 9th grade scores:
    * ![Scores_After](/resources/District_overall_after.PNG)
 
-* How is the school summary affected?
+* Analysis of the adjusted data:
   * The effects of removing the suspected 9th grade scores from the overall data appears to have a minimal change to the outcomes.
   * Difference in the total % passing scores for the entire district is less than .2%
   
