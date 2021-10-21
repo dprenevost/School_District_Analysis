@@ -32,19 +32,21 @@ The Data needed to be checked, and corrected for irregularities in several field
 
 * How does replacing the 9th graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   * ![THS_before_after](/resources/before_after.PNG)
+   * As you can see from the above image, the numbers at the top indicate the % passing score is much higher.  This is expected as we removed all of the 9th grade from the dataset.  This however points out another interesting point.  The overall averages for Math and Reading did not deviate from the other schools significantly.
   
-* How does replacing the 9th scores affect the following:
+* By removing the 9th grade scores, the following observations are made:
 
-* Math and reading scores by grade
+  * Math and reading scores by grade
+  *   Math scores for THS went from 93.2% down to 69.6% for the whole school
+    
+  * Scores by school spending
 
-* Scores by school spending
+  * Scores by school size
 
-* Scores by school size
+  * Scores by school type
 
-* Scores by school type
 
-There is a  (10 pt).
-Summary:
+## Summary:
 
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
 bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data
