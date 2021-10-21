@@ -17,7 +17,7 @@
 
      #### The Data needed to be checked, and corrected for irregularities in several fields, noteably the "student_name" column, as there were several anomolous entries related to name prefixes and suffixes, most likely to cheeky students with a sense of humor.
 
-## Results:
+### Results:
 
     *How is the district summary affected?
 	*District overall Scores **before** removing THS 9th grade scores:
