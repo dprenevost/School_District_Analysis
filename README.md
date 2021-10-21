@@ -17,7 +17,7 @@ The Data needed to be checked, and corrected for irregularities in several field
 
 ### Results:
 
-* Here are the district summaries:
+* District Score summaries:
 
    * District overall Scores **before** removing THS 9th grade scores:
    * ![Scores_Before](/resources/District_overall_before.PNG)
